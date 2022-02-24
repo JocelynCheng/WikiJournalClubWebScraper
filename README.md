@@ -1,6 +1,11 @@
 # WikiJournalClubWebScraper
 Python code to scrape Clinical Question, Bottom Line, and embedded URL of major trials listed on WikiJournalClub to create Anki cards for medical education.
 
+
+Demo here:
+https://www.youtube.com/watch?v=QET4V-x7E4U
+
+
 Run the above code in terminal with command "python3 webscrape.py"
 
 The code will create a .csv file with the clinical question, bottom line, and URL extracted from wikiJournalClub for easy import to anki.
